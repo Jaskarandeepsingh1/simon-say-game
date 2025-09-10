@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+}
+/* /////////////// animation rounded */
+/* #yellow{
+    animation: rot 2s ease-in 0s infinite alternate ;
+
+}
+@keyframes rot{
+          0% {
+            transform: rotate(0deg); /* Starting rotation */
+        /* }
+        100% {
+            transform: rotate(360deg); /* Ending rotation (full circle) */
+        /* } */
+    /* } */
+
+.line-one{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line-two{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* .btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.yellow{
+    background-color:#f99b45;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
+.flash{
+    background-color: white;
+}
